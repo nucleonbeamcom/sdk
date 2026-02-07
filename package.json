@@ -1,10 +1,10 @@
-"name": "nucleon-beam",
-"version": "0.1.0",
-"description": "Decentralized validation layer for scientific data",
-"scripts": {
-"dev": "ts-node src/index.ts",
-"build": "tsc",
-"start": "node dist/index.js"
-
-
-
+{
+  "name": "nucleon-beam",
+  "version": "0.1.0",
+  "description": "Decentralized validation layer for scientific data",
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  }
+}
